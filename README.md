@@ -116,7 +116,7 @@ The `new_test` module is a testbench used to simulate the FSM. It provides the n
 
 ### Steps
 
-1. **Compile the Design**: Compile the `automatic_washing_machine.v` file.
+1. **Compile the Design**: Compile the `automatic_washing_machine_HDL.v` file.
 2. **Run the Simulation**: Run the `new_test.v` testbench to simulate the washing machine FSM.
 3. **Analyze the Results**: Observe the output waveform or log to verify that the FSM transitions correctly between states.
 
