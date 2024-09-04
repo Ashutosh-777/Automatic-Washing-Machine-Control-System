@@ -132,11 +132,3 @@ The simulation should demonstrate the washing machine's operation, transitioning
 ## Contributing
 
 Contributions are welcome! If you have ideas for improving the project or adding new features, please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This README should provide clear guidance and detailed information to anyone looking to understand or contribute to your project. Feel free to modify sections to better suit your project's needs!
